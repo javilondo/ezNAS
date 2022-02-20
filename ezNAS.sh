@@ -1,3 +1,5 @@
+#!/bin/bash
+
 umount /media/NAS/
 echo "Configurando red:"
 sleep 1
